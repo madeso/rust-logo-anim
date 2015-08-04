@@ -17,7 +17,7 @@ void draw() {
   pushMatrix();
   translate(512, 512);
   rotate(radians(angle));
-  angle += 0.25f;
+  angle += 0.5f;
   translate(-512, -512);
   image(rings,0,0);
   popMatrix();
