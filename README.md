@@ -2,7 +2,7 @@
 
 ![rust rotating logo](rust-logo-64.gif)
 
-This is a project to create a animating gif for use as a progress/activity indicator in rust related projects.
+This is a project to create a animating gif for use as a [progress/activity indicators](http://docs.wxwidgets.org/trunk/classwx_activity_indicator.html) in rust related projects.
 
 Tools used:
 * Inkscape to generate a high quality image from [the vector file](https://www.rust-lang.org/logos/rust-logo-blk.svg)
