@@ -52,3 +52,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# processing output folder
+project/out/*
+

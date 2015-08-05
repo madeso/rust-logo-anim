@@ -21,5 +21,9 @@ void draw() {
   translate(-512, -512);
   image(rings,0,0);
   popMatrix();
+  
+  if( angle < 360 ) {
+    saveFrame("out/rust-logo-######.png");
+  }
 }
 
