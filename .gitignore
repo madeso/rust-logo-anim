@@ -56,3 +56,5 @@ $RECYCLE.BIN/
 # processing output folder
 project/out/*
 
+# phatch temp file
+*.phatch~
